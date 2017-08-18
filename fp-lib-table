@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name clock_project)(type KiCad)(uri "$(KIPRJMOD)/clock_project.pretty")(options "")(descr ""))
+  (lib (name STLC01V1)(type KiCad)(uri "$(KIPRJMOD)/STLC01V1.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,13 @@
+Qty,partname,description,lib
+0,"C","Unpolarized capacitor","device"
+0,"CONN_01X02","Connector, single row, 01x02","conn"
+0,"CONN_01X05","Connector, single row, 01x05","conn"
+0,"FM24V10-G","","fm24v10-g"
+0,"LED-RESCUE-clock","","clock-rescue"
+0,"NCP170","","NCP170"
+0,"R","Resistor","device"
+0,"STLCS01V1","","STEVAL-STLCS01V1"
+0,"USB_OTG-RESCUE-clock","","clock-cache"
+0,"lmv341","","lmv341"
+0,"mcp73831","","mcp73831"
+0,"oled_i2c_display_128x64","","oled_i2c_display"
